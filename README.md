@@ -7,10 +7,10 @@ The objective of this project is to develop an interactive HR dashboard using Po
 
 The dataset used for this project includes employee records with the following attributes:
 
-Employee ID
-Gender
-Years of Service
-Job Level
-Promotion Eligibility
-Employment Status (Active, Retrenched, etc.)
-Distance to Workplace
+- Employee ID
+- Gender
+- Years of Service
+- Job Level
+- Promotion Eligibility
+- Employment Status (Active, Retrenched, etc.)
+- Distance to Workplace
