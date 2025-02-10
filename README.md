@@ -38,5 +38,6 @@ The dataset used for this project includes employee records with the following a
 
 ## HR Dashboard
 
-<a href="https://github.com/MuhammadImam1/PowerBI-HR-Dashboard-/blob/main/HR%20Dashboard.png">HR Dashboard Image</a>
+[![HR Dashboard](https://raw.githubusercontent.com/MuhammadImam1/PowerBI-HR-Dashboard-/main/HR%20Dashboard.png)](https://github.com/MuhammadImam1/PowerBI-HR-Dashboard-)
+
 
