@@ -35,3 +35,7 @@ The dataset used for this project includes employee records with the following a
 
 ## Conclusion:
   The HR dashboard provides a clear, data-driven view of workforce insights, helping HR teams manage employee promotions, retention, and workforce distribution efficiently. It enables better decision-making by   offering real-time data visualization and analytics. By leveraging Power BI, HR professionals can streamline workforce management and improve organizational efficiency.
+
+## HR Dashboard
+
+https://github.com/MuhammadImam1/PowerBI-HR-Dashboard-/blob/main/HR%20Dashboard.png
